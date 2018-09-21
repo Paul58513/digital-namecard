@@ -4,10 +4,10 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Hunt;Paul;;;
 FN: Paul  Hunt 
 ORG:Regislord;
-TITLE:IT Consultant\nRegislord Ltd
+TITLE:IT Consultant Regislord Ltd
 EMAIL;type=INTERNET;type=WORK;type=pref:paul.hunt@regislord.com
-TEL;type=WORK;type=VOICE:+49 2351 4324252
-item1.ADR;type=WORK;type=pref:;;Platehofstrasse 9\n58513 Luedenscheid;;;58513;Germany
+TEL;type=WORK;type=VOICE:+49 2351 4324252
+item1.ADR;type=WORK;type=pref:;;Platehofstr. 9\n58513 Luedenscheid;;;58513;Germany
 item1.X-ABADR:sg
 item2.URL;type=pref:bgm21.de
 item2.X-ABLabel:_$!<HomePage>!$_
